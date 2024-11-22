@@ -6,6 +6,7 @@
     background-color: white;
     padding: 5px;
     margin: 0px;
+    overflow: auto;
 }
 .row{
     background-color: pink;
@@ -14,6 +15,7 @@
     position: sticky;
     top: 0px;
     justify-content: space-between;
+    height: 100%;
 }        
 .row1{
     background-color: silver;
@@ -23,6 +25,7 @@
     padding: 80px;
     height: 300px;
     align-items: center;
+    height: 100%;
 }
 .row2{
     background-color: rgb(89, 192, 220);
@@ -31,6 +34,7 @@
     padding: 100px;
     height: 300px;
     align-items: center;
+    height: 100%;
 }
 .box{
     background-color: white;
